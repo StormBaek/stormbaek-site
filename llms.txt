@@ -1,0 +1,18 @@
+# Stormbæk
+
+> Dansk web- og systemudviklingsbureau der designer og udvikler digitale produkter som driver vækst for små og mellemstore virksomheder.
+
+Stormbæk leverer almindelige hjemmesideprojekter på 14 arbejdsdage fra kickoff, til fast pris på det aftalte scope. Du ser dit designudkast før vi bygger — siger du nej der, betaler du ingenting. Vi tilbyder gratis AI-genererede designudkast, en tydelig kunderejse og fast pris — fra hjemmesider og webshops til webapps, portaler og API-integrationer.
+
+## Pages
+
+- [Forside](/): Introduktion til Stormbæk, services, cases og booking.
+- [Cases](/cases): Udvalgte kundeprojekter og resultater.
+- [Priser](/priser): Pakker, priser og interaktiv quiz til at finde den rette løsning.
+- [Projektvilkår](/vilkaar): Scope, pris, betaling, leveringstid, ejerskab, fejlrettelser og opsigelse.
+
+
+## Optional
+
+- [Book et møde](/#book-ét-møde): Book en uforpligtende 30-minutters samtale.
+- [Om os](/#om-os): Om teamet bag Stormbæk.

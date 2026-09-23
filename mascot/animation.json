@@ -1,0 +1,80 @@
+{
+  "name": "Storm",
+  "scope": "website mascot",
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "generatedWith": "built-in ImageGen",
+  "animations": {
+    "idle": {
+      "strip": "storm-idle.webp",
+      "frameCount": 6,
+      "width": 1152,
+      "height": 208,
+      "durationsMs": [
+        1900,
+        260,
+        140,
+        150,
+        240,
+        800
+      ],
+      "approxFps": 1.72,
+      "loop": true
+    },
+    "waving": {
+      "strip": "storm-waving.webp",
+      "frameCount": 4,
+      "width": 768,
+      "height": 208,
+      "durationsMs": [
+        200,
+        240,
+        240,
+        320
+      ],
+      "approxFps": 4.0,
+      "loop": false
+    },
+    "thinking": {
+      "strip": "storm-thinking.webp",
+      "frameCount": 6,
+      "width": 1152,
+      "height": 208,
+      "durationsMs": [
+        450,
+        300,
+        500,
+        170,
+        250,
+        400
+      ],
+      "approxFps": 2.9,
+      "loop": true
+    },
+    "walking-right": {
+      "strip": "storm-walking-right.webp",
+      "frameCount": 8,
+      "width": 1536,
+      "height": 208,
+      "durationsMs": [
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170
+      ],
+      "approxFps": 5.88,
+      "loop": true
+    }
+  },
+  "static": "storm-static.webp",
+  "walkingLeft": {
+    "deriveFrom": "walking-right",
+    "mirrorDisplayedFrameHorizontally": true,
+    "preserveFrameOrder": true,
+    "approved": true
+  }
+}
