@@ -16,6 +16,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://stormbaek.com/saadan-foregaar-det</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stormbaek.com/vilkaar</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
@@ -24,6 +29,11 @@
     <loc>https://stormbaek.com/blog/hvad-koster-en-hjemmeside</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stormbaek.com/cases/medic-team-danmark</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://stormbaek.com/cases/kildehoejgaard</loc>
@@ -36,27 +46,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://stormbaek.com/cases/caesarsurf</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://stormbaek.com/cases/stefko</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://stormbaek.com/cases/nocturnal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://stormbaek.com/cases/cakeployer</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://stormbaek.com/cases/case3</loc>
+    <loc>https://stormbaek.com/cases/brickwardrobe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
