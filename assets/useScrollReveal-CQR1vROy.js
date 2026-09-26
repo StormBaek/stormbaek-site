@@ -1,0 +1,1 @@
+import{r as t}from"./vendor-BusisjAc.js";function f(s=.15){const r=t.useRef(null),[c,o]=t.useState(!1);return t.useEffect(()=>{const n=r.current;if(!n)return;const e=new IntersectionObserver(([i])=>{i.isIntersecting&&(o(!0),e.disconnect())},{threshold:s});return e.observe(n),()=>e.disconnect()},[s]),{ref:r,visible:c}}export{f as u};
