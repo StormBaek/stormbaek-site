@@ -51,6 +51,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://stormbaek.com/cases/caesars-soul-surf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://stormbaek.com/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -97,6 +102,11 @@
   </url>
   <url>
     <loc>https://stormbaek.com/en/cases/brickwardrobe</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://stormbaek.com/en/cases/caesars-soul-surf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
