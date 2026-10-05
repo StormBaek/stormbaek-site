@@ -26,6 +26,11 @@
     <priority>0.4</priority>
   </url>
   <url>
+    <loc>https://stormbaek.com/blog/design-inspiration</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stormbaek.com/blog/hvad-koster-en-hjemmeside</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -79,6 +84,11 @@
     <loc>https://stormbaek.com/en/vilkaar</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://stormbaek.com/en/blog/design-inspiration</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://stormbaek.com/en/blog/hvad-koster-en-hjemmeside</loc>
