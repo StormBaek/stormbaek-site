@@ -26,6 +26,11 @@
     <priority>0.4</priority>
   </url>
   <url>
+    <loc>https://stormbaek.com/blog/seo-geo-ai-synlighed</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stormbaek.com/blog/design-inspiration</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -84,6 +89,11 @@
     <loc>https://stormbaek.com/en/vilkaar</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://stormbaek.com/en/blog/seo-geo-ai-synlighed</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://stormbaek.com/en/blog/design-inspiration</loc>
